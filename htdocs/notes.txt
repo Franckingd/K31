@@ -1,0 +1,14 @@
+<?php
+    $dB_user = "root";
+    $dB_pass = "xjzdsj";
+    $dB_name = "K31";
+    $dB_host = "localhost";
+
+    echo "$dB_user  senha  $dB_pass <br>";
+    echo $dB_user .' senha '. $dB_pass.'<br>';
+
+    for ($a = 0; $a < 9; $a++)
+    echo "$a<br>";
+?>
+
+<input type="text" value="<?php echo $dB_pass; ?>">
