@@ -19,7 +19,6 @@
             echo "<td id='space'></tb>";
             echo "</tr>";
         }
-        
     ?>
 
     </table>
